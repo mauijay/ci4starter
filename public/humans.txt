@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+/* TEAM */
+
+Creator: Jay Lamping
+@jaylamping
+URL: https://808.biz/team/jay-Lamping
+Description: Full Stack Developer
+
+/* THANKS */
+
+CraftCMS - https://craftcms.com
+Pixel & Tonic - https://pixelandtonic.com
+
+/* SITE */
+
+Standards: HTML5, CSS3, ci4
+Components: Pug, Boilerplate, PHP, JavaScript, SEOmatic

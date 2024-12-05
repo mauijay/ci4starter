@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="X:\00.templates\ci4-starter\dist\phpunit.xml.dist" tests="5" assertions="7" errors="0" failures="0" skipped="0" time="0.056934">
+    <testsuite name="App" tests="5" assertions="7" errors="0" failures="0" skipped="0" time="0.056934">
+      <testsuite name="ExampleDatabaseTest" file="X:\00.templates\ci4-starter\dist\tests\database\ExampleDatabaseTest.php" tests="2" assertions="3" errors="0" failures="0" skipped="0" time="0.048289">
+        <testcase name="testModelFindAll" file="X:\00.templates\ci4-starter\dist\tests\database\ExampleDatabaseTest.php" line="17" class="ExampleDatabaseTest" classname="ExampleDatabaseTest" assertions="1" time="0.037206"/>
+        <testcase name="testSoftDeleteLeavesRow" file="X:\00.templates\ci4-starter\dist\tests\database\ExampleDatabaseTest.php" line="28" class="ExampleDatabaseTest" classname="ExampleDatabaseTest" assertions="2" time="0.011083"/>
+      </testsuite>
+      <testsuite name="ExampleSessionTest" file="X:\00.templates\ci4-starter\dist\tests\session\ExampleSessionTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.001085">
+        <testcase name="testSessionSimple" file="X:\00.templates\ci4-starter\dist\tests\session\ExampleSessionTest.php" line="11" class="ExampleSessionTest" classname="ExampleSessionTest" assertions="1" time="0.001085"/>
+      </testsuite>
+      <testsuite name="HealthTest" file="X:\00.templates\ci4-starter\dist\tests\unit\HealthTest.php" tests="2" assertions="3" errors="0" failures="0" skipped="0" time="0.007560">
+        <testcase name="testIsDefinedAppPath" file="X:\00.templates\ci4-starter\dist\tests\unit\HealthTest.php" line="13" class="HealthTest" classname="HealthTest" assertions="1" time="0.000755"/>
+        <testcase name="testBaseUrlHasBeenSet" file="X:\00.templates\ci4-starter\dist\tests\unit\HealthTest.php" line="18" class="HealthTest" classname="HealthTest" assertions="2" time="0.006804"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>

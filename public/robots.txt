@@ -1,0 +1,10 @@
+# 808 Business Solutions - PHP Script
+
+User-agent: *
+Disallow: /login/
+Disallow: /register/
+Disallow: /login/magic-link
+Disallow: /admin/
+Disallow: */api/
+Disallow: */cron/
+Sitemap : https://808businesssolutions.com/sitemap.xml

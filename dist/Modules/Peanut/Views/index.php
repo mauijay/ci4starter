@@ -1,0 +1,1 @@
+<section><h1>Peanut Butter Module</h1><br><p>This is the new index page</p></section>
