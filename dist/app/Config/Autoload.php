@@ -44,7 +44,8 @@ class Autoload extends AutoloadConfig
         'Blogs'       => ROOTPATH . 'Modules/Blog',        
         'Jelly'       => ROOTPATH . 'Modules/Jelly',
         'Peanut'      => ROOTPATH . 'Modules/Peanut',
-        'Cars'    => ROOTPATH . 'Modules/Cars',
+        'Cars'        => ROOTPATH . 'Modules/Cars',
+        'Admin'       => ROOTPATH . 'Modules/Admin',
     ];
 
     /**
