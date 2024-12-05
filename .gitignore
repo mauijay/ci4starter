@@ -65,6 +65,7 @@ dist/writable/debugbar/*
 #-------------------------
 # Test Files
 #-------------------------
+dist/build/
 dist/tests/coverage*
 
 #-------------------------
